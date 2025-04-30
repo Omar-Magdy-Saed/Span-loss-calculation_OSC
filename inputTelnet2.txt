@@ -1,0 +1,2 @@
+paging status disabled
+show card inventory *

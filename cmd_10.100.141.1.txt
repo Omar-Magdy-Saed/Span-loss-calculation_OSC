@@ -1,0 +1,5 @@
+show interface 4/3/LINEIN detail
+config interface 4/3/osc pm opt baseline newsystem
+show interface 4/3/osc pm opt baseline
+show interface 4/3/LINEIN detail
+show interface topology 4/3/LINEOUT
